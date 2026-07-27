@@ -16,6 +16,18 @@
 - **Shareable Public Recruiter Profile**: Dynamic public candidate showcase URL (`/recruiter/alex-vance-ai`).
 
 ---
+## 🧠 AI Techniques
+
+- OCR
+- NLP
+- LLM Entity Extraction
+- Explainable AI
+- Human-in-the-Loop Verification
+- Hybrid RAG
+- Semantic Search
+- Knowledge Graph
+- Vector Embeddings
+- Timeline Generation
 
 ## 🏗️ Architecture & AI Workflow
 
